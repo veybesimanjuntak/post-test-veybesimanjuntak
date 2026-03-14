@@ -12,7 +12,6 @@ int main() {
     printf("Program Menentukan Total Stok Berdasarkan Kategori\n");
     printf("===================================================\n\n");
     
-    // input jumlah data
     printf("Masukkan jumlah data barang : ");
     scanf("%d", &N);
     

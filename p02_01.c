@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-/* Struktur data untuk menyimpan informasi kota */
 struct Kota {
     char kode[4];
     char nama[20];

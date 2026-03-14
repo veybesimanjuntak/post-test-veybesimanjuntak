@@ -6,7 +6,6 @@
 #define DISCOUNT_THRESHOLD 50000
 #define DISCOUNT_RATE 0.10
 
-// Struktur Menu
 struct Menu {
     int id;
     char nama[50];
